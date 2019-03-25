@@ -5,6 +5,7 @@ const App = () => (<div>
   <div class="App-header">
     <h3>LDCX Lightning Talk 2019</h3>
     <h1>Sinopia.io</h1>
+    <h4>Jeremy Nelson, Stanford University Libraries</h4>
   </div>
   <div>
     <p className="App-paragraph">Sinopia is a linked data creation environment sponsored by the
