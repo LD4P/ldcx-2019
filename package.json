@@ -11,6 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://ld4p.github.io/ldcx-2019/",
   "author": "Jeremy Nelson",
   "license": "Apache-2.0",
   "dependencies": {
