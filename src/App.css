@@ -1,0 +1,16 @@
+.App-header {
+  /* background-color: #2F2424; */
+  background-image: url(./images/sinopiahomebg.png);
+  margin-top: 5vh;
+  min-height: 25vh;
+  width: 80%;
+  margin-left: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-family: 'Source Sans Pro', sans-serif;
+  box-shadow: -3px 3px 10px 0px #999999;
+  background-color: white;
+}
